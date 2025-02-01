@@ -99,3 +99,7 @@ Please check the paper for a complete list of references and datasets used in th
 ## Research Proposal - Cameron Wiebe
 
 Link [Depth-Based Simulation and Low-Light Imaging of Abandoned Mines in AL.docx](https://github.com/user-attachments/files/18628179/Depth-Based.Simulation.and.Low-Light.Imaging.of.Abandoned.Mines.in.AL.docx)
+
+## Sprint 1
+
+Link [Sprint 1.docx](https://github.com/user-attachments/files/18630364/Sprint.1.docx)
