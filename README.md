@@ -103,3 +103,7 @@ Link [Depth-Based Simulation and Low-Light Imaging of Abandoned Mines in AL.docx
 ## Sprint 1
 
 Link [Sprint 1.docx](https://github.com/user-attachments/files/18630364/Sprint.1.docx)
+
+## Sprint 2
+
+Link [Sprint 2.docx](https://github.com/user-attachments/files/18935626/Sprint.2.docx)
