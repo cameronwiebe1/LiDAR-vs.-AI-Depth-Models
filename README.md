@@ -1,3 +1,15 @@
+## Research Proposal
+
+Link [Depth-Based Simulation and Low-Light Imaging of Abandoned Mines in AL.docx](https://github.com/user-attachments/files/18628179/Depth-Based.Simulation.and.Low-Light.Imaging.of.Abandoned.Mines.in.AL.docx)
+
+## Sprint 1
+
+Link [Sprint 1.docx](https://github.com/user-attachments/files/18630364/Sprint.1.docx)
+
+## Sprint 2
+
+Link [Sprint 2.docx](https://github.com/user-attachments/files/18935626/Sprint.2.docx)
+
 ## Depth Pro: Sharp Monocular Metric Depth in Less Than a Second
 
 This software project accompanies the research paper:
@@ -95,15 +107,3 @@ The model weights are released under the [LICENSE](LICENSE) terms.
 Our codebase is built using multiple opensource contributions, please see [Acknowledgements](ACKNOWLEDGEMENTS.md) for more details.
 
 Please check the paper for a complete list of references and datasets used in this work.
-
-## Research Proposal
-
-Link [Depth-Based Simulation and Low-Light Imaging of Abandoned Mines in AL.docx](https://github.com/user-attachments/files/18628179/Depth-Based.Simulation.and.Low-Light.Imaging.of.Abandoned.Mines.in.AL.docx)
-
-## Sprint 1
-
-Link [Sprint 1.docx](https://github.com/user-attachments/files/18630364/Sprint.1.docx)
-
-## Sprint 2
-
-Link [Sprint 2.docx](https://github.com/user-attachments/files/18935626/Sprint.2.docx)
