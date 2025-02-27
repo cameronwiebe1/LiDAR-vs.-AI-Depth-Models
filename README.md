@@ -96,7 +96,7 @@ Our codebase is built using multiple opensource contributions, please see [Ackno
 
 Please check the paper for a complete list of references and datasets used in this work.
 
-## Research Proposal - Cameron Wiebe
+## Research Proposal by Cameron Wiebe
 
 Link [Depth-Based Simulation and Low-Light Imaging of Abandoned Mines in AL.docx](https://github.com/user-attachments/files/18628179/Depth-Based.Simulation.and.Low-Light.Imaging.of.Abandoned.Mines.in.AL.docx)
 
